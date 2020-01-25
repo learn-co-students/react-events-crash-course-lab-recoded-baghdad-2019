@@ -1,9 +1,10 @@
-# React Events Crash Course Lab
+# React Props Movie Lab
 
 
 ## Objectives
 
 1. Practice affixing and handling Synthetic Events in React
+2. Have fun with an absolute [legend][legend]
 
 
 ## Introduction
@@ -46,4 +47,4 @@ documentation on events:
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-events-crash-course-lab'>React Events Crash Course Lab</a> on Learn.co and start learning to code for free.</p>
 
-[legend]: https://en.everybodywiki.com/Chrome_Boi
+[legend]: https://en.wikipedia.org/wiki/Draft:Chrome_Boi
